@@ -26,7 +26,7 @@ int main()
 	struct info player[7] = { { 0 } };
 	int y, x, num,rounds;
 	printf("\n\n");
-	system("color 4E");
+	system("color 4E"); //This changes the color to Red 
 	printf("****************************************\n");
 	printf("-------------LION GAME-------- ---------\n");
 	printf("***********BY FARHAN DAHIR**************\n");
