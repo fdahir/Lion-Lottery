@@ -2,7 +2,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include<time.h>
-#include<dos.h>
+//This header dosen't work in Linux os #include<dos.h>
 
 
 struct info {
